@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🚀 Streamlit App with reCAPTCHA and GROQ Integration
 
 This is a Streamlit-based web application that uses Google reCAPTCHA for user verification and GROQ API for intelligent responses. It ensures that only human users can interact with the app, making it more secure and interactive.
@@ -20,16 +17,16 @@ This is a Streamlit-based web application that uses Google reCAPTCHA for user ve
 
 ## 📁 Project Structure
 
-```
+
 
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── .streamlit/
 │   └── secrets.toml       # Store API keys and credentials (used on Streamlit Cloud)
 
-````
 
----
+
+
 
 ## 🔧 Setup Instructions (Local)
 
@@ -37,7 +34,7 @@ This is a Streamlit-based web application that uses Google reCAPTCHA for user ve
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
-````
+   ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
 
