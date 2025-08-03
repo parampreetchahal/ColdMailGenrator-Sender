@@ -18,11 +18,12 @@ This is a Streamlit-based web application that uses Google reCAPTCHA for user ve
 ## 📁 Project Structure
 
 
-
+```
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── .streamlit/
 │   └── secrets.toml       # Store API keys and credentials (used on Streamlit Cloud)
+```
 
 
 
